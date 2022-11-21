@@ -296,7 +296,7 @@ main {
     flex-direction: column;
     gap: 30px;
     list-style: none;
-    padding-right: 90px;
+    padding-right: 30px;
 }
 
 .card-list li {
@@ -308,7 +308,6 @@ main {
     font-size: 14px;
     line-height: 21px;
     color: rgba(11, 27, 54, 0.6);
-    padding-right: 1.2rem;
 }
 
 .card-1 a {
